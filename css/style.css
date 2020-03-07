@@ -296,6 +296,7 @@ h6 {
 #sobre {
   background: #fff;
   padding: 60px 0;
+  margin: 50px 0;
 }
 
 #sobre .sobre-container .background {
@@ -323,7 +324,7 @@ h6 {
 #sobre .sobre-container .icon-box {
   background: #fff;
   background-size: cover;
-  padding: 0 0 30px 0;
+  padding: 30px 0 30px 0;
 }
 
 #sobre .sobre-container .icon-box .icon {
